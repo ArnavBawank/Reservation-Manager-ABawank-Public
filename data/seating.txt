@@ -1,0 +1,9 @@
+T1,2,Main
+T2,2,Main
+T3,4,Main
+T4,4,Main
+T5,6,Main
+T6,4,Patio
+T7,4,Patio
+T8,6,Patio
+T9,8,Private
